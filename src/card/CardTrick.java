@@ -26,8 +26,7 @@ public class CardTrick {
         luckCard.setValue(2);
         luckCard.setSuit("Clubs");
         
-        // Display the luck card
-        System.out.println("Lucky Card: " + luckCard.getValue() + " of " + luckCard.getSuit());
+        
     }
 }
         }
